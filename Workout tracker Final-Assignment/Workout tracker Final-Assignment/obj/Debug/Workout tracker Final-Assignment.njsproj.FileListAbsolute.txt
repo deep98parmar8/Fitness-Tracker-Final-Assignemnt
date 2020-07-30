@@ -1,0 +1,3 @@
+C:\Users\17055\source\repos\Workout tracker Final-Assignment\Workout tracker Final-Assignment\obj\Debug\Workout tracker Final-Assignment.njsprojAssemblyReference.cache
+C:\Users\17055\source\repos\Workout tracker Final-Assignment\Workout tracker Final-Assignment\obj\Debug\Workout tracker Final-Assignment.njsproj.CoreCompileInputs.cache
+C:\Users\17055\source\repos\Workout tracker Final-Assignment\Workout tracker Final-Assignment\bin\Microsoft.NodejsTools.WebRole.dll

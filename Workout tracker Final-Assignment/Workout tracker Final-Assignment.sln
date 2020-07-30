@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "Workout tracker Final-Assignment", "Workout tracker Final-Assignment\Workout tracker Final-Assignment.njsproj", "{1E8CAE4A-52FD-4BFA-AAC3-6E9F6CE5B08A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1E8CAE4A-52FD-4BFA-AAC3-6E9F6CE5B08A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E8CAE4A-52FD-4BFA-AAC3-6E9F6CE5B08A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E8CAE4A-52FD-4BFA-AAC3-6E9F6CE5B08A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E8CAE4A-52FD-4BFA-AAC3-6E9F6CE5B08A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {326FB5CD-1A58-45F4-92D8-0D21D93737B8}
+	EndGlobalSection
+EndGlobal
